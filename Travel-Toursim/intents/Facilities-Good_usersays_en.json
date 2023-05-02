@@ -1,0 +1,17 @@
+[
+  {
+    "id": "dd1faf02-0882-41db-bc3c-396049c66c80",
+    "data": [
+      {
+        "text": "Good",
+        "meta": "@Rating",
+        "alias": "Rating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

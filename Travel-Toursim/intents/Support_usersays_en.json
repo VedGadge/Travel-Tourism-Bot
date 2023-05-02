@@ -1,0 +1,93 @@
+[
+  {
+    "id": "2a7415ee-6d33-4a55-bdda-70e4394cb430",
+    "data": [
+      {
+        "text": "Can I connect to your support",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa1562c2-7a7f-4c44-9986-43e11f0d7af3",
+    "data": [
+      {
+        "text": "I need assistance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce8486e1-b382-47c9-a83e-fed3e1bbd9f8",
+    "data": [
+      {
+        "text": "I want to give some feedback",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0aed6bc3-85cd-44d8-bada-d587146ad781",
+    "data": [
+      {
+        "text": "feedback?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb4a2196-d242-4af1-9963-4180a4a9ff35",
+    "data": [
+      {
+        "text": "support?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef3bc73d-63f5-4094-a377-7379f4800dcd",
+    "data": [
+      {
+        "text": "Support",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b8765e2d-b480-4417-90d0-d31575ba69d5",
+    "data": [
+      {
+        "text": "Feedback",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "value": "sedan",
+    "synonyms": [
+      "sedan"
+    ]
+  },
+  {
+    "value": "SUV",
+    "synonyms": [
+      "SUV"
+    ]
+  },
+  {
+    "value": "hatchback",
+    "synonyms": [
+      "hatchback"
+    ]
+  },
+  {
+    "value": "convertible",
+    "synonyms": [
+      "convertible"
+    ]
+  },
+  {
+    "value": "compact",
+    "synonyms": [
+      "compact"
+    ]
+  },
+  {
+    "value": "luxury",
+    "synonyms": [
+      "luxury"
+    ]
+  },
+  {
+    "value": "crossover",
+    "synonyms": [
+      "crossover"
+    ]
+  }
+]

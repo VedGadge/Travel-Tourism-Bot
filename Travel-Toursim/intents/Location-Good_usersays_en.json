@@ -1,0 +1,36 @@
+[
+  {
+    "id": "93ea38af-f625-4ea6-aed8-c29ec8d846fe",
+    "data": [
+      {
+        "text": "Good",
+        "meta": "@Rating",
+        "alias": "Rating",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67670a34-42b0-4bb8-9163-6b4bd174396c",
+    "data": [
+      {
+        "text": "It was ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "meta": "@Rating",
+        "alias": "Rating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "value": "Master suite",
+    "synonyms": [
+      "Deluxe"
+    ]
+  },
+  {
+    "value": "Mini suite",
+    "synonyms": [
+      "Mini suite",
+      "Junior suite"
+    ]
+  },
+  {
+    "value": "Single",
+    "synonyms": [
+      "Single",
+      "single"
+    ]
+  },
+  {
+    "value": "Double",
+    "synonyms": [
+      "Double"
+    ]
+  },
+  {
+    "value": "Queen",
+    "synonyms": [
+      "Queen"
+    ]
+  },
+  {
+    "value": "King",
+    "synonyms": [
+      "King"
+    ]
+  },
+  {
+    "value": "Twin",
+    "synonyms": [
+      "Twin"
+    ]
+  },
+  {
+    "value": "Triple",
+    "synonyms": [
+      "Triple"
+    ]
+  },
+  {
+    "value": "Quad",
+    "synonyms": [
+      "Quad"
+    ]
+  },
+  {
+    "value": "Studio",
+    "synonyms": [
+      "Studio"
+    ]
+  }
+]

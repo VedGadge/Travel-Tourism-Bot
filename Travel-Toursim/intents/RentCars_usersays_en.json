@@ -1,0 +1,402 @@
+[
+  {
+    "id": "47eada23-dd0c-40bb-8e2b-78e66780de26",
+    "data": [
+      {
+        "text": "Book me a ",
+        "userDefined": false
+      },
+      {
+        "text": "sedan",
+        "meta": "@Cars",
+        "alias": "cars",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "May 5",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7666fb50-44c9-451a-aed7-62e1a452bc64",
+    "data": [
+      {
+        "text": "I need a ",
+        "userDefined": false
+      },
+      {
+        "text": "sedan",
+        "meta": "@Cars",
+        "alias": "cars",
+        "userDefined": false
+      },
+      {
+        "text": " car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c5bdff0-6a70-4a66-8083-e88876a1de9c",
+    "data": [
+      {
+        "text": "I want a ",
+        "userDefined": false
+      },
+      {
+        "text": "SUV",
+        "meta": "@Cars",
+        "alias": "cars",
+        "userDefined": false
+      },
+      {
+        "text": " car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b87fa6e3-3d40-45d9-841d-02e0067f0eb4",
+    "data": [
+      {
+        "text": "can you book me a ",
+        "userDefined": false
+      },
+      {
+        "text": "convertible",
+        "meta": "@Cars",
+        "alias": "cars",
+        "userDefined": false
+      },
+      {
+        "text": " car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cf55ad06-0fc7-4df4-a823-ebb33dd49ba7",
+    "data": [
+      {
+        "text": "Can you book me ",
+        "userDefined": false
+      },
+      {
+        "text": "sedan",
+        "meta": "@Cars",
+        "alias": "cars",
+        "userDefined": false
+      },
+      {
+        "text": " car ",
+        "userDefined": false
+      },
+      {
+        "text": "day after tomorrow",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "07197312-7a33-44dc-bc2c-b943393aaeba",
+    "data": [
+      {
+        "text": "I need a ",
+        "userDefined": false
+      },
+      {
+        "text": "luxury",
+        "meta": "@Cars",
+        "alias": "cars",
+        "userDefined": false
+      },
+      {
+        "text": " car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1db852eb-79d0-4066-bb8b-f51f53035140",
+    "data": [
+      {
+        "text": "Reserve a ",
+        "userDefined": false
+      },
+      {
+        "text": "sports",
+        "meta": "@Cars",
+        "alias": "cars",
+        "userDefined": false
+      },
+      {
+        "text": " car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ec91ad5-dcfc-4ce2-ab98-1adef600c154",
+    "data": [
+      {
+        "text": "Get me a ",
+        "userDefined": false
+      },
+      {
+        "text": "sedan",
+        "meta": "@Cars",
+        "alias": "cars",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "759a086d-7db2-4548-9677-2f42676f5cf4",
+    "data": [
+      {
+        "text": "Reserve me a ",
+        "userDefined": false
+      },
+      {
+        "text": "SUV",
+        "meta": "@Cars",
+        "alias": "cars",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "the day after tomorrow",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc7bf998-b3e4-45c8-ab99-963177499bf2",
+    "data": [
+      {
+        "text": "Rent a ",
+        "userDefined": false
+      },
+      {
+        "text": "convertible",
+        "meta": "@Cars",
+        "alias": "cars",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "next Monday",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2195dd2-c605-425a-bf48-e563913dc77e",
+    "data": [
+      {
+        "text": "Can you reserve a ",
+        "userDefined": false
+      },
+      {
+        "text": "hatchback",
+        "meta": "@Cars",
+        "alias": "cars",
+        "userDefined": false
+      },
+      {
+        "text": " for me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2d04edf6-f425-4a87-aaae-380e0ca7d62c",
+    "data": [
+      {
+        "text": "Will you book a ",
+        "userDefined": false
+      },
+      {
+        "text": "SUV",
+        "meta": "@Cars",
+        "alias": "cars",
+        "userDefined": true
+      },
+      {
+        "text": " for me on ",
+        "userDefined": false
+      },
+      {
+        "text": "March 4",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Rent me a car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "rent me a ",
+        "userDefined": false
+      },
+      {
+        "text": "Sedan",
+        "meta": "@Cars",
+        "alias": "cars",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "book me a car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "I want a car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Get me a ",
+        "userDefined": false
+      },
+      {
+        "text": "sedan",
+        "meta": "@Cars",
+        "alias": "cars",
+        "userDefined": false
+      },
+      {
+        "text": " car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "can you book me a car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

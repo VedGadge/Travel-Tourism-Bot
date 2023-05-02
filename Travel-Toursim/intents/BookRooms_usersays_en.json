@@ -1,0 +1,196 @@
+[
+  {
+    "id": "03faeffa-4dc0-40ad-b0ae-e40d5741a4b7",
+    "data": [
+      {
+        "text": "Can you reserve a room for me ",
+        "userDefined": false
+      },
+      {
+        "text": "next Monday",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2fbcbeec-a02b-4772-b182-7e675c0a169a",
+    "data": [
+      {
+        "text": "Book a room for me ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c280fa47-ad26-437c-9c18-9518d18a2cb4",
+    "data": [
+      {
+        "text": "Reserve a ",
+        "userDefined": false
+      },
+      {
+        "text": "single",
+        "meta": "@Rooms",
+        "alias": "rooms",
+        "userDefined": false
+      },
+      {
+        "text": " room in ",
+        "userDefined": false
+      },
+      {
+        "text": "New York",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "next Tuesday",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c05cd2eb-c7c8-4b94-b3c7-5782b3db1b75",
+    "data": [
+      {
+        "text": "I need a ",
+        "userDefined": false
+      },
+      {
+        "text": "double",
+        "meta": "@Rooms",
+        "alias": "rooms",
+        "userDefined": false
+      },
+      {
+        "text": " room in ",
+        "userDefined": false
+      },
+      {
+        "text": "New York",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "June 19",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24aee09e-a02c-473c-8911-0bf11c687dda",
+    "data": [
+      {
+        "text": "Please book me a ",
+        "userDefined": false
+      },
+      {
+        "text": "King",
+        "meta": "@Rooms",
+        "alias": "rooms",
+        "userDefined": false
+      },
+      {
+        "text": " room ",
+        "userDefined": false
+      },
+      {
+        "text": "the day after tomorrow",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "New Delhi",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30482cae-e31b-4d9e-8ed6-0b4817fbc070",
+    "data": [
+      {
+        "text": "Book a ",
+        "userDefined": false
+      },
+      {
+        "text": "deluxe",
+        "meta": "@Rooms",
+        "alias": "rooms",
+        "userDefined": false
+      },
+      {
+        "text": " room for me in ",
+        "userDefined": false
+      },
+      {
+        "text": "Mumbai",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "two weeks from today",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

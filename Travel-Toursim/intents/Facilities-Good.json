@@ -1,0 +1,52 @@
+{
+  "id": "981ce696-c505-41ef-8d4f-08fe1eca4429",
+  "name": "Facilities-Good",
+  "auto": true,
+  "contexts": [
+    "facilities-feedback"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0e19a74b-2a1b-4d9e-95e9-b8ebc40fcc24",
+          "name": "Rating",
+          "required": true,
+          "dataType": "@Rating",
+          "value": "$Rating",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Glad you liked it!. Thank you for the feedback!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

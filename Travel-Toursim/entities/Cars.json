@@ -1,0 +1,9 @@
+{
+  "id": "50034732-2e4e-445e-88d4-129354f53ac8",
+  "name": "Cars",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

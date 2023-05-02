@@ -1,0 +1,75 @@
+[
+  {
+    "action": "smalltalk.appraisal.thank_you",
+    "customAnswers": [
+      "You\u0027re welcome. Can I help you with anything else?"
+    ]
+  },
+  {
+    "action": "smalltalk.emotions.ha_ha",
+    "customAnswers": [
+      "It was funny!"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.bye",
+    "customAnswers": [
+      "Goodbye! See you"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.goodevening",
+    "customAnswers": [
+      "Hey, Good evening"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.goodmorning",
+    "customAnswers": [
+      "Good morning!",
+      "Morning"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.goodnight",
+    "customAnswers": [
+      "Night night!"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.hello",
+    "customAnswers": [
+      "Hey what\u0027s up"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.how_are_you",
+    "customAnswers": [
+      "I am fine, how are you doing?"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.nice_to_meet_you",
+    "customAnswers": [
+      "Greetings!"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.nice_to_see_you",
+    "customAnswers": [
+      "It was good to see you too."
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.nice_to_talk_to_you",
+    "customAnswers": [
+      "It was great chatting with you."
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.whatsup",
+    "customAnswers": [
+      "I am good, what\u0027s up with you"
+    ]
+  }
+]

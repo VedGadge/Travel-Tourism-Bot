@@ -1,0 +1,248 @@
+[
+  {
+    "id": "e59c7156-20f2-4230-90f1-9d690d1771de",
+    "data": [
+      {
+        "text": "Can you book me ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " tickets for ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3abbe2ab-f97a-4ad1-aeca-b85ea60399e4",
+    "data": [
+      {
+        "text": "book me ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " tickets to ",
+        "userDefined": false
+      },
+      {
+        "text": "Pune",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "26th",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "june",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba34a339-43e7-481f-871c-c36e73f4b7e5",
+    "data": [
+      {
+        "text": "I would like to travel to ",
+        "userDefined": false
+      },
+      {
+        "text": "mexico",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6eb0f69-beb8-4c04-8c27-a7adfba58212",
+    "data": [
+      {
+        "text": "Please book me a flight for ",
+        "userDefined": false
+      },
+      {
+        "text": "New York",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9dcb575e-d317-43e6-ab0c-5b138173d7ff",
+    "data": [
+      {
+        "text": "I want a ticket for ",
+        "userDefined": false
+      },
+      {
+        "text": "India",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "next monday",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "711aeb22-05f5-477d-a3ca-126f5e54cb19",
+    "data": [
+      {
+        "text": "Please book me a flight for ",
+        "userDefined": false
+      },
+      {
+        "text": "Australia",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "003c0e8e-2773-4063-809a-f17a1b8faf07",
+    "data": [
+      {
+        "text": "I want to book a ticket to ",
+        "userDefined": false
+      },
+      {
+        "text": "Paris",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "950722af-5509-47b0-887b-8c84a503d3af",
+    "data": [
+      {
+        "text": "I want to book a flight",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb9dc61f-08ec-415f-aa81-8bb6e84d2f38",
+    "data": [
+      {
+        "text": "Book a flight ticket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb8abadc-5ffe-4f5b-a2bb-56f58940b9f2",
+    "data": [
+      {
+        "text": "Can you book a flight ticket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

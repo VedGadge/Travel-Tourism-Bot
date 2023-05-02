@@ -1,0 +1,39 @@
+{
+  "id": "0063b486-e14f-42c6-921c-831d6d86d48c",
+  "parentId": "5727b0a6-cb0c-4200-8550-2ceccd10a2c9",
+  "rootParentId": "5727b0a6-cb0c-4200-8550-2ceccd10a2c9",
+  "name": "Book a flight ticket - yes",
+  "auto": true,
+  "contexts": [
+    "Bookaflightticket-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Bookaflightticket.Bookaflightticket-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay. #Bookaflightticket-followup.number flight ticket have been booked successfully to #Bookaflightticket-followup.geo-city on #Bookaflightticket-followup.date-time"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

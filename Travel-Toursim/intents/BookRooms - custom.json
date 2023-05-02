@@ -1,0 +1,74 @@
+{
+  "id": "cef30ce2-ff5b-4b8f-ae52-d1588125a999",
+  "parentId": "b6c1536f-5ec7-4e5c-8ccf-88bd67ec54ad",
+  "rootParentId": "b6c1536f-5ec7-4e5c-8ccf-88bd67ec54ad",
+  "name": "BookRooms - custom",
+  "auto": true,
+  "contexts": [
+    "setdate",
+    "BookRooms-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "BookRooms.BookRooms-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1da89426-b46d-46d6-ad06-efd4a38c3400",
+          "name": "cars",
+          "required": true,
+          "dataType": "@Cars",
+          "value": "$cars",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What type of car do you want?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "118e978d-9734-466f-b869-cba4df865719",
+          "name": "date",
+          "required": true,
+          "dataType": "@sys.date",
+          "value": "$date",
+          "defaultValue": "#setdate.date",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Done! I have booked you $cars for $date"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,55 @@
+[
+  {
+    "id": "a5c1400d-c5af-4014-bb1a-ea2f9e7e3f43",
+    "data": [
+      {
+        "text": "Bad",
+        "meta": "@Rating",
+        "alias": "Rating",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fed886ce-edd6-432c-be71-f2b462ce09e5",
+    "data": [
+      {
+        "text": "It was ",
+        "userDefined": false
+      },
+      {
+        "text": "bad",
+        "meta": "@Rating",
+        "alias": "Rating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "051df14e-dc3f-40c4-a7c3-79b5808bfb2e",
+    "data": [
+      {
+        "text": "The facilities were ",
+        "userDefined": false
+      },
+      {
+        "text": "bad",
+        "meta": "@Rating",
+        "alias": "Rating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

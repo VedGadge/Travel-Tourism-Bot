@@ -1,0 +1,76 @@
+{
+  "id": "8151d5be-9ce0-42b7-98b2-7e3f7950bc67",
+  "name": "RentCars",
+  "auto": true,
+  "contexts": [
+    "setdate"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5459d026-d687-4bc7-807d-9ef64fc5a3f1",
+          "name": "date",
+          "required": true,
+          "dataType": "@sys.date",
+          "value": "$date",
+          "defaultValue": "#setdate.date",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "When do you need the car?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "77a6eaa5-c9e0-4f82-8462-a2c86698cf43",
+          "name": "cars",
+          "required": true,
+          "dataType": "@Cars",
+          "value": "$cars",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What type of car would you like?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Done! I have booked you a $cars for $date"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
